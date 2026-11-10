@@ -15,7 +15,7 @@ public class calculadora {
 		System.out.println("Calculadora");
 		System.out.println("2+3=" + sumar(2, 3));
 		System.out.println("5-1=" + restar(5, 1));
-		System.out.println("3*7=" + restar(3, 7));
+		System.out.println("3*7=" + multi(3, 7));
 		}
 		}
 }
